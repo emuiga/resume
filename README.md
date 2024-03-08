@@ -2,6 +2,6 @@
 
 LaTeX template for my personal resume
 
-## Preview
 
-Muiga_Resume.pdf
+
+[Preview](Muiga_Resume.pdf)
