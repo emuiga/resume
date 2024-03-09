@@ -1,6 +1,6 @@
 # Resume
 
-LaTeX template for my personal resume
+My personal resume in Latex
 
 
 
